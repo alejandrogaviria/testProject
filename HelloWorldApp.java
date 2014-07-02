@@ -1,5 +1,5 @@
 
-WorldApp class implements an application that
+/*WorldApp class implements an application that
  * simply prints "Hello World!" to standard output.
  */
 class HelloWorldApp {

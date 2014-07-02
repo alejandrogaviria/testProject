@@ -1,6 +1,6 @@
-public class TestFredy{
+public class TestVictor{
 
-public void main(String[]){
+public void main(String[] args){
 System.out.print("Hola Mundo CRUEL");
 
 }
