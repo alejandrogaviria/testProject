@@ -1,7 +1,7 @@
 public class TestFredy{
 
 public void main(String[] args){
-System.out.print("Hola Mundo H");
+System.out.print("Hola Mundo Hilo ");
 
 }
 }
